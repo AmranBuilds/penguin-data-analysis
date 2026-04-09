@@ -11,7 +11,7 @@ I used the **Palmer Penguins** dataset, which contained size measurements for th
 * **Pandas** (Data manipulation)
 * **Seaborn & Matplotlib** (Data visualization)
 
-## Key Findings
+## Findings
 * Adelie is the most common penguin species in this dataset.
 * There is a strong positive correlation between a penguin's flipper length and its body mass.
 * Gentoo penguins only live on Biscoe island.
